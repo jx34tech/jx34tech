@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Software Defined Radio for Cyber Security
 - 💞️ I’m looking to collaborate on material and repos involved in Security of Mobile Radio
 - 📫 How to reach me jx34tech@jacksullivan.dev
+- You can support me at https://ko-fi.com/jacksullivan
 - You can also reach me at:
 
 Twitter:
