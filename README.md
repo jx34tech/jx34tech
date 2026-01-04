@@ -10,6 +10,4 @@ jx34tech/jx34tech is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-I am currently collaborating with another partner regarding an education startup that is working to provide better learning feedback to Students.
-
 I am also currently personally working on a project involving machine learning and voice and speech pattern recognition involving Mobile Radio. If you work in this area, please reach out to me via my email, and I will gladly have a discussion to learn more.
